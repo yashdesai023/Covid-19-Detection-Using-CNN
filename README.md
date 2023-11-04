@@ -1,4 +1,3 @@
-# Covid-19-Detection-Using-CNN
 # COVID-19 Detection Using CNN (Deep Learning)
 
 ## Overview
